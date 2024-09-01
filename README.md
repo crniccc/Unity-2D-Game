@@ -1,8 +1,8 @@
-# 2D Unity Game: Fly and Survive
+# SuperZizi: Fly and Survive (Unity 2D)
 
 ## Overview
 
-Welcome to the **Fly and Survive** game, a thrilling 2D adventure where you control a character navigating through a series of obstacles while collecting hearts to survive as long as possible. The game features a beautifully designed parallax background to enhance the immersive experience.
+Welcome to **SuperZizi: Fly and Survive**, a thrilling Unity 2D adventure where you control a character navigating through a series of obstacles while collecting hearts to survive as long as possible. The game features a beautifully designed parallax background to enhance the immersive experience.
 
 ## Game Controls
 
@@ -38,4 +38,9 @@ This comparison helps to illustrate the significant performance improvements tha
 
 ## Conclusion
 
-This game combines engaging gameplay with technical demonstrations, offering both entertainment and insights into optimizing game performance through parallelization. Enjoy flying through obstacles, collecting hearts, and experimenting with the stress test to see how well the game performs under pressure!
+**SuperZizi: Fly and Survive** combines engaging gameplay with technical demonstrations, offering both entertainment and insights into optimizing game performance through parallelization. Enjoy flying through obstacles, collecting hearts, and experimenting with the stress test to see how well the game performs under pressure!
+
+---
+**Note:** This is a Unity 2D game project. The stress test and Unity Jobs system features are included to demonstrate the impact of parallelization on game performance.
+
+Enjoy the game and feel free to contribute to the project!
